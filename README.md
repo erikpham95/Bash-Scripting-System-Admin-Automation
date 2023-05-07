@@ -1,4 +1,4 @@
-# Bash-Scripting-System-Admin-Automation
+# Bash Scripting System Admin Automation
 
 This is a beginner's guideline for Linux usage & Bash Scripting
 
