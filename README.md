@@ -58,7 +58,7 @@ This is a beginner's guideline for Linux usage & Bash Scripting
 
     -   [Linux OS Structure](https://www.tutorialspoint.com/operating_system/os_linux.htm)
  
-![Use this template](https://github.com/erikpham95/Bash-Scripting-System-Admin-Automation/blob/main/Photos/1.png)
+    ![Use this template](https://github.com/erikpham95/Bash-Scripting-System-Admin-Automation/blob/main/Photos/1.png)
 
     -   Command Line Shell vs Graphical Shell
 
