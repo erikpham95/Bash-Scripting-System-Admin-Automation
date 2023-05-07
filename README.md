@@ -52,7 +52,7 @@ This is a beginner's guideline for Linux usage & Bash Scripting
 
     -   Common VM Options: Microsoft Hyper-V (recommended for Windows user) vs Oracle VirtualBox
 
-####c.  Basic Concepts
+#### c.  Basic Concepts
 
 -   Linux OS Fundamentals
 
