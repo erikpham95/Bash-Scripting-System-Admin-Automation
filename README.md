@@ -57,12 +57,19 @@ This is a beginner's guideline for Linux usage & Bash Scripting
 -   Linux OS Fundamentals
 
     -   [Linux OS Structure](https://www.tutorialspoint.com/operating_system/os_linux.htm)
+ 
+![Use this template](https://github.com/erikpham95/Bash-Scripting-System-Admin-Automation/blob/main/Photos/1.png)
 
     -   Command Line Shell vs Graphical Shell
 
+![Use this template](https://github.com/erikpham95/Bash-Scripting-System-Admin-Automation/blob/main/Photos/2.png)
+
     -   [Linux vs Windows File System / Naming](https://www.javatpoint.com/linux-vs-windows)
 
+![Use this template](https://github.com/erikpham95/Bash-Scripting-System-Admin-Automation/blob/main/Photos/3.png)
 -   [Linux File Hierachy System](https://www.javatpoint.com/linux-file-hierarchy-system)
+
+![Use this template](https://github.com/erikpham95/Bash-Scripting-System-Admin-Automation/blob/main/Photos/4.png)
 
     -   Basic: / (Root), /home, /root
 
@@ -71,6 +78,8 @@ This is a beginner's guideline for Linux usage & Bash Scripting
 -   Linux Directory / File Management
 
     -   [Absolute vs Relative Pathnames](https://linuxhandbook.com/absolute-vs-relative-path/)
+
+![Use this template](https://github.com/erikpham95/Bash-Scripting-System-Admin-Automation/blob/main/Photos/5.png)
 
     -   [Regular vs Directory Files](https://www.dispersednet.com/unix-system-admin/module4/regular-files.php)
 
@@ -83,6 +92,10 @@ This is a beginner's guideline for Linux usage & Bash Scripting
     -   [chmod](https://www.javatpoint.com/linux-chmod-command) vs [chown](https://www.javatpoint.com/linux-chown-command)
 
     -   [Permission Notation](https://www.javatpoint.com/linux-file-permissions)
+
+![Use this template](https://github.com/erikpham95/Bash-Scripting-System-Admin-Automation/blob/main/Photos/6.png)
+
+![Use this template](https://github.com/erikpham95/Bash-Scripting-System-Admin-Automation/blob/main/Photos/7.png)
 
 -   [Linux Process Management](https://www.guru99.com/managing-processes-in-linux.html)
 
@@ -167,6 +180,8 @@ This is a beginner's guideline for Linux usage & Bash Scripting
     -   [bc](https://www.geeksforgeeks.org/bc-command-linux-examples/)
 
     -   Operator Table
+
+![Use this template](https://github.com/erikpham95/Bash-Scripting-System-Admin-Automation/blob/main/Photos/8.png)
 
 -   Bash Conditional Statements & Loops
 
