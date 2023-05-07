@@ -218,7 +218,7 @@ This is a beginner's guideline for Linux usage & Bash Scripting
 
 ## II. Sample Automation Bash Script
 
-#### 1.  Beginner Tasks
+### 1.  Beginner Tasks
 
 #### a.  System Monitoring
 
